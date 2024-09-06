@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "349198148166",
+    "project_id": "appfirebase-a8455",
+    "storage_bucket": "appfirebase-a8455.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349198148166:android:8562bad36506ea845ae047",
+        "android_client_info": {
+          "package_name": "com.example.appfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEtqgIVnNrvkQzW3lGrimuD2zHUb4TMac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349198148166:android:f55d0c0c75de84935ae047",
+        "android_client_info": {
+          "package_name": "com.example.appsqlite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEtqgIVnNrvkQzW3lGrimuD2zHUb4TMac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
